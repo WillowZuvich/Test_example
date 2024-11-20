@@ -1,6 +1,6 @@
 int main(void)
 {
 
-	printf("zorb"\n);
+	printf("zorb\n");
 }
 
